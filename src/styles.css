@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.a {
+  padding: 10px;
+  margin: 10px;
+  background: lightgreen;
+  text-decoration: none;
+}
+.b {
+  padding: 10px;
+  margin: 10px;
+  background: lightsalmon;
+  text-decoration: line-through;
+}
